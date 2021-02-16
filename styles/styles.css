@@ -1,0 +1,9 @@
+img,
+i {
+    transition: transform 1s;
+}
+
+img:hover,
+i:hover {
+    transform: scale(1.3);
+}
