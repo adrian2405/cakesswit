@@ -3,7 +3,10 @@ i {
     transition: transform 1s;
 }
 
-img:hover,
-i:hover {
+img:hover {
     transform: scale(1.3);
+}
+
+i:hover {
+    transform: rotate(360deg);
 }
